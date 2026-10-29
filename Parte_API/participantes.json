@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diego",
+        "apellido": "Ulpin",
+        "numero_rifa": "82"
+    },
+    {
+        "id": 2,
+        "nombre": "Santiago",
+        "apellido": "Ulpin",
+        "numero_rifa": 15
+    },
+    {
+        "id": 3,
+        "nombre": "Tamara",
+        "apellido": "Gonzalez",
+        "numero_rifa": 20
+    },
+    {
+        "id": 5,
+        "nombre": "Luis",
+        "apellido": "Ramirez",
+        "numero_rifa": 30
+    }
+]

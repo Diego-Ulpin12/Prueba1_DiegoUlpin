@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Primer premio",
+        "descripcion": "Premio principal de la rifa",
+        "estado": "Disponible"
+    },
+    {
+        "id": 2,
+        "nombre": "Segundo premio",
+        "descripcion": "Premio secundario de la rifa",
+        "estado": "Disponible"
+    },
+    {
+        "id": 3,
+        "nombre": "Tercer premio",
+        "descripcion": "Premio adicional de la rifa",
+        "estado": "Entregado"
+    }
+]
